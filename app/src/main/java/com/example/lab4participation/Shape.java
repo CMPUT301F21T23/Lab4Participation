@@ -1,2 +1,5 @@
-package com.example.lab4participation;public class Shape {
+package com.example.lab4participation;
+
+public abstract class Shape {
+    public int x, y;
 }
