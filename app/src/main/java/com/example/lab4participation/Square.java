@@ -1,5 +1,7 @@
 package com.example.lab4participation;
 
 public class Square extends Shape {
-    String color = "yellow";
+
+    String color = "red";
+
 }
