@@ -1,6 +1,6 @@
 package com.example.lab4participation;
-
 public abstract class Shape {
-    public int x, y;
-    public String color = "blue";
+   int x;
+   int y;
+   String color = "blue";
 }
